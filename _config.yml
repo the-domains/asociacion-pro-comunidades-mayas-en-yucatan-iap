@@ -1,0 +1,28 @@
+name: 'Asociación Pro Comunidades Mayas en Yucatán, IAP'
+favicon: null
+layout_spectrum: 0.7862666223663837
+typography_spectrum: 0.4367820320185274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.13574726530350745
+  lightness: 0.5518041783943772
+  saturation: 0.056053076637908816
+  rhythmicContrast: 0.6527652663644403
+purpose: []
